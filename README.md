@@ -6,5 +6,5 @@ These are just files from the Udemy UE4 course, not acctual course.
 * BT01 Intro, Notes & Section 4 Assets
 * BT02 Overview 
 * BT03 GDD
-* BT04 Setting up GitHub
+* BT04 GitHub Setup
 * BT05 Creating & Deleting Landscapes
